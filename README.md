@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danielselga
-- 👀 I’m interested in JS, Vue, Angular, React and Node.js
+- 👀 I’m interested in JS, Vue, Angular, React, Node.js and TailWindcss
 - 🌱 I’m currently learning, JS Vanilla and Reactive Single Apps FrameWorks
 - 💞️ I’m looking to collaborate on bank and investments corps.
 - 📫 How to reach me danielselga@gmail.com

@@ -1,5 +1,3 @@
-🖥️ https://danielselga.dev/
-
 <p align="left">
   <a href="https://danielselga.dev/" alt="WebSite">
   <img src="https://img.shields.io/badge/-WebSite-green" /></a>

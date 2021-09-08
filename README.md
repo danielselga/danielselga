@@ -6,7 +6,7 @@
 - 🖥️ https://danielselga.dev/
 
 <p align="left">
-  <a href="danielselga@gmail.com" alt="Gmail">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=danielselga@gmail.com&su=SUBJECT&body=BODY&bcc=someone.else@example.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
   <a href="https://www.linkedin.com/in/danielselga/?locale=en_US" alt="Linkedin">

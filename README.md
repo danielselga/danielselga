@@ -14,7 +14,7 @@
 </p>  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?danielselga=anuraghazra&show_icons=true&theme=synthwave) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?danielselga=anuraghazra&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?danielselga=anuraghazra&layout=compact&theme=synthwave)](https://github.com/danielselga)
 
 
 

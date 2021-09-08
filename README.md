@@ -1,7 +1,5 @@
 <p align="left">
-  <a href="https://danielselga.dev/" alt="WebSite">
-  <img src="https://img.shields.io/badge/-WebSite-green" /></a>
-  
+
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=danielselga@gmail.com&su=SUBJECT&body=BODY&bcc=someone.else@example.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 

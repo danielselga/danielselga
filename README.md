@@ -13,8 +13,8 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?danielselga=anuraghazra&show_icons=true&theme=synthwave) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=synthwave)](https://github.com/danielselga)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielselga&show_icons=true&theme=synthwave) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielselga&layout=compact&theme=synthwave)](https://github.com/danielselga)
 
 
 

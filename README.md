@@ -16,6 +16,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielselga&show_icons=true&theme=synthwave) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielselga&layout=compact&theme=synthwave)](https://github.com/danielselga)
 
-
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
 

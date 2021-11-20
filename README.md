@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
   <a href="https://www.instagram.com/danielselga/?hl=pt-br" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielselga&show_icons=true&theme=synthwave) 

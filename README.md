@@ -51,6 +51,7 @@
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white">
+<img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white">
 </p>  
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danielselga&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)

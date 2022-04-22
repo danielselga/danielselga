@@ -37,6 +37,7 @@
 <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
 </p>  
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danielselga&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)

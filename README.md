@@ -22,6 +22,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielselga&show_icons=true&theme=synthwave) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielselga&layout=compact&theme=synthwave)](https://github.com/danielselga)
 
+<h1> Tools that I worked with </h1>
+  
 <p align="left">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">

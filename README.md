@@ -12,7 +12,6 @@
    	
 </p>  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielselga&show_icons=true&theme=synthwave) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielselga&layout=compact&theme=synthwave)](https://github.com/danielselga)
 
 <h3> Tools that I worked with </h3>
